@@ -1,0 +1,13 @@
+begin
+     numeric n,a
+     print "enter the number"
+     reading number from user
+     if n<=1
+         print "it is not a prime number"
+     for a in range(2,n)
+     Begin
+        if n%a==0
+        print "it is not a prime number"
+        else
+        print "It is a prime number"
+End

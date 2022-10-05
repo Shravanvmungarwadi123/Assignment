@@ -1,0 +1,5 @@
+Flying is the common property among bird, Superman, Aeroplane and missile classes.
+
+Flying is an interface to be implemented by these classes.
+
+By creating this we can achieve inheritance and Abstraction.

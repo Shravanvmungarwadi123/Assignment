@@ -1,0 +1,9 @@
+
+class Patient
+Instance methods for class Patient
+
+--> PatientProfile()
+--> PatientDisease()
+--> PatientSurgery()
+--> PatientMedicine()
+--> PatientExpenditure()

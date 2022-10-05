@@ -1,0 +1,13 @@
+Begin
+	numeric number
+	print"enter the number"
+	initialise a variable reverse to zero
+	while Number>=1
+		begin
+		remainder=number%10
+		reverse=(reverse*10)+remainder
+		number=number/10
+		return reverse
+		end
+	print reverse
+End

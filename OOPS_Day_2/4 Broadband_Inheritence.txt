@@ -1,0 +1,4 @@
+ Broadband Connection
+
+ We access iternet from Internet Service provider(ISP), and then we distribute the internet by means of wired and wireless connection.
+ First we inherit the internet from ISP and then other devices inherit the internet from the broadband connection. By this way Inheritence is achieved.

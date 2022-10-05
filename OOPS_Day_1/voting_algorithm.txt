@@ -1,0 +1,7 @@
+Step1: Start
+Step2: Initialise variable age
+Step3: take input from user
+Step4: check if age>18
+Step5: print person is eligible to vote
+Step6: else print person is not eligible to vote
+Step7: End

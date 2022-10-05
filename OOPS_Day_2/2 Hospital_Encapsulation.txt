@@ -1,0 +1,13 @@
+Attributes
+	Patient
+	Vistors(Patient's family members)
+	Staff
+	   Doctors
+	   Nurse
+	   Ward boys
+	   Receptionists
+	Managements
+	Pharmacy
+
+ All of these are of different background but are encapsulated in a single unit Hospital.
+ But some like Vistors are restricted to some places inside hospital like ICU's, where only doctors and nurses are allowed.

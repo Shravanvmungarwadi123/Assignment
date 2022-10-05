@@ -1,0 +1,10 @@
+Parent class--> Calculator
+methods of Calculator class:Add(), Sub(), Mul(), Div()
+
+
+Child class--> Standard and Scientific
+methods of Standard class:Add(), Sub(), Mul(), Div()
+methods of Scientific class:Add(), Sub(), Mul(), Div(), expo(), sin(), cos(), tan(), cosec(), sec().
+
+
+Add(), Sub(), Mul(), Div() are the methods that can overriden by child classes. 

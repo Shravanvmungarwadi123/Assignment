@@ -1,0 +1,7 @@
+Step1: Start
+Step2: input a positive number from user
+Step3: initialise a variable to 1 // fact=1
+Step4: iterate from 1 to (n+1) using for loop 
+Step5: using fact=fact*1 calculate the factorial
+Step6: print output
+Step7: Stop

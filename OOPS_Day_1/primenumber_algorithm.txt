@@ -1,0 +1,9 @@
+Step1: Start
+Step2: input numeric value from user
+Step3: if user input number is less than or equal to 1
+Step4: display given number is not prime number else goto step5.
+Step5: iterate from 2 to given number//for i in range(2,number).
+Step6: if number%i==0
+Step7: display given number is not prime number else go to step8.
+Step8: print given number is a prime number.
+Step9: End

@@ -1,0 +1,7 @@
+Attributes
+	Red Signal
+	Yellow Signal
+	green Signal
+
+ Traffic Signal is a single component, but changes it's form to three different states i.e, red signal state, Yellow Signal state, green Signal state.
+ Hence, it achieves polymorphism ie a single component having different forms.

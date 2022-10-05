@@ -1,0 +1,9 @@
+Objects of media
+* Print press media
+* Live Broadcasting media
+* Social media
+
+Static members are
+* Print press media
+* Live Broadcasting media
+Reason: Once they deliver the news they cannot modify their news,hence static, but through social media we can edit or remove once we share news.

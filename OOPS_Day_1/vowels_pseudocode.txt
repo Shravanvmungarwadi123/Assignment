@@ -1,0 +1,11 @@
+Begin
+	Set count=0
+	initialise string str=CITIUSTECH
+	convert string to lowercase str=str.toLowerCase()
+	for(int i=0;i<str.length();i++)
+	Begin
+		if(str.CharAt(i)=="a"||str.CharAt(i)=="e"||str.CharAt(i)=="i"||str.CharAt(i)=="o"||str.CharAt(i)=="u"||)
+		count++
+		print count
+	End
+End

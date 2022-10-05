@@ -1,0 +1,11 @@
+Attributes:
+	Electronic circuits
+	Speakers
+	Picture tube
+	Built-in Antenna
+	remote-control
+	access buttons
+	Exteriors
+	
+Among these attributes Electronic circuits, speakers, picture tube and biult-in antenna are hidden from the user.
+Hence Abstraction is achieved.

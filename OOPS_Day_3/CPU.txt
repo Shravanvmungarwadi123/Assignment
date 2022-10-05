@@ -1,0 +1,9 @@
+Public Instance of CPU
+--> Motherboard
+--> Registers
+--> Capacitors
+--> Transistors
+
+Private Instance of CPU
+--> Internal circuits
+--> Working 

@@ -1,0 +1,7 @@
+Begin
+	positive number from user
+	numeric n fact=1
+	iterate from 1 to (n+1) using for loop 
+	calculate fact=fact*i
+	print fact
+End

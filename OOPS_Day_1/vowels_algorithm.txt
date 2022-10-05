@@ -1,0 +1,10 @@
+Step1: Start
+Step2: initialise string str=CITIUSTECH
+Step3: set count=0
+Step4: convert string to lowercase str=str.toLowerCase()
+Step5: for(int i=0;i<str.length();i++)
+Step6: insert if condition within loop to check vowels
+Step7: if(str.CharAt(i)=="a"||str.CharAt(i)=="e"||str.CharAt(i)=="i"||str.CharAt(i)=="o"||str.CharAt(i)=="u"||)
+Step8: count++
+Step9: print count
+Step10: End

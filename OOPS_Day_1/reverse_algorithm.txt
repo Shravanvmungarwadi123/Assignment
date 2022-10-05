@@ -1,0 +1,12 @@
+Step1:Start
+Step2:input from user
+Step3:read number
+Step4:declare a variable called remainder
+Step5:initialise reverse=0
+Step6:while number is greater than or equal to 1 goto step 7
+Step7:calculate remainder=number/10
+Step8:calculate reverse=(reverse*10)+remainder
+Step9:number=number/10
+Step10:return reverse
+Step11:print reverse
+Step12:End

@@ -1,0 +1,17 @@
+MobilePhones
+
+Static Attributes
+   Mobile Screen
+   Ports
+   Speakers
+   Power and Volume buttons
+   Sim slot allotment
+   Battery
+   Cameras
+
+Dynamic Atributes
+   Operating System (Softwares)
+   RAM
+   Secondary Storage
+   Installing Applications
+  
